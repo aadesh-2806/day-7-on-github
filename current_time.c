@@ -1,5 +1,6 @@
 #include<stdio.h>
-#include<time.h>
+#include<time.h> 
+
 void main()
 {
 	time_t ct;
